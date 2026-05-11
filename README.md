@@ -7,6 +7,4 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  **paingheink003@gmail.com**
-</p>
+- **paingheink003@gmail.com**
