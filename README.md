@@ -1,5 +1,5 @@
-<h1 align="center">Hello , I'm Paing Hein Kyaw</h1>
-<h3 align="center">A passionate web developer</h3>
+<h1 align="center">Paing Hein Kyaw</h1>
+<h3 align="center">Web Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
