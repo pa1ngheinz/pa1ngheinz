@@ -8,5 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  paingheink003@gmail.com
+  <a href="mailto:paingheink003@gmail.com">
+    paingheink003@gmail.com
+  </a>
 </p>
